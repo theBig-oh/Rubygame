@@ -42,11 +42,58 @@ while(!ready)
 }
 
 story_heredoc = <<OMG
-
-A long time ago, there was a sacred weapon...
-
-			the #{sword1.name}!
+                  /\     
+                 /  \    In a world long ago, there has been a legend passed on
+                / /\ \   through the ages... 
+               / /  \ \  
+              / /    \ \	Of a sacred sword, which can decide the wielder's fate...
+             /_/      \_\		
+             \    '`    /
+              )   ||   (    Each culture has a different interpetation of the legend	
+              |   ||   |    			
+              |   ||   | 
+              |   ||   |
+              |   ||   |
+              |   ||   | 
+              |   ||   | 
+              |   ||   | 
+              |   ||   | 
+              |   ||   |
+  /           |   ||   |           \
+ /(           |   ||   |           )\
+ |`\_         |   ||   |         _/'|
+ |`. `-._     |   ||   |     _,-' ,'|
+ (   ` . `-._ |  _--_  | _,-' , '   )
+  `.._   ` . `-./.__.\.-' , '   _,-'
+      `-._   ` | /  \ | '   _,-'
+          `-._/ |_()_| \_,-'
+       ___.-'   ______   `-,
+      '-----.  |______|   /  
+             \  ______   /   
+             |  \>  </  /    
+              \________/     
+              _]______[_     
+              |        |     
+              |________|
+               ]______[#     
+              |        |
+              |________|     
+              _]______[_     
+              |        |     
+              |________|     
+              _]______[_
+              |        |
+              |________|
+                ]____[
+              .'      `.
+              | <   >  |>
+             <|   <   >|
+               `.____.'
+                 V   V
 
 OMG
 
 puts story_heredoc
+
+
+
